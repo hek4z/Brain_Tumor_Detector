@@ -1,1 +1,2 @@
-# Nutrition_Recommender
+# Nutrition Recommender
+### Advanced Machine Learning MSBA
