@@ -1,2 +1,2 @@
-# Nutrition Recommender
+# Brain Tumor Detector
 ### Advanced Machine Learning MSBA
